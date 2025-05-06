@@ -1,7 +1,7 @@
 # Sentiment Analysis in Natural Language Processing
 
-This repository houses a predictive classification model that analyzes reviews or comments
-and predicts its class as either **POSITIVE** or **NEGATIVE** review.
+This repository houses a predictive classification model that analyzes **reviews** or **comments**
+and **predicts** its class as either **POSITIVE** or **NEGATIVE** review.
 
 The dataset used for this project is a labelled dataset found on Kaggle with this 
 [link] (https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format/data)

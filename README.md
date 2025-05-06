@@ -33,4 +33,4 @@ are as follows:
 
     Different models were used to find out which of them gives a better result. Overall the
     **Linear Simple Vector Classification (Linear SVC)** proved to be the better algorithm with 
-    **2222 TP** classes, **2272 TN** classes, **233 FP** classes and **273 FN** classes
+    **2222 TP** points, **2272 TN** points, **233 FP** points and **273 FN** points
